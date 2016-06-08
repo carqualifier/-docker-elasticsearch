@@ -5,5 +5,4 @@
 #
 
 # Pull base image.
-FROM elasticsearch:2.2.1
-
+FROM elasticsearch:latest
